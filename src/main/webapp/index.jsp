@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en" xml:lang="en">
+
 <html>
 <head>
+	<meta charset="UTF-8">
 	<title>SWIGGY</title>
 </head>
 <body>
