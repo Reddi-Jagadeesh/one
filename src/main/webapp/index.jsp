@@ -1,6 +1,8 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
 <html>
 <head>
-
+	<title>SWIGGY</title>
 </head>
 <body>
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT</h1>
